@@ -12,7 +12,6 @@
 				"C:/School/CS415_FinalProject_SP24/FiveNightsAtGrainger/FiveNightsAtGrainger/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
 				"C:/School/CS415_FinalProject_SP24/FiveNightsAtGrainger/FiveNightsAtGrainger/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
 				"C:/School/CS415_FinalProject_SP24/FiveNightsAtGrainger/FiveNightsAtGrainger/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/School/CS415_FinalProject_SP24/FiveNightsAtGrainger/FiveNightsAtGrainger/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/School/CS415_FinalProject_SP24/FiveNightsAtGrainger/FiveNightsAtGrainger/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset",
 				"C:/School/CS415_FinalProject_SP24/FiveNightsAtGrainger/FiveNightsAtGrainger/Content/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset",
 				"C:/School/CS415_FinalProject_SP24/FiveNightsAtGrainger/FiveNightsAtGrainger/Content/FPWeapon/Mesh/SK_FPGun_Physics.uasset",
@@ -32,7 +31,10 @@
 				"C:/School/CS415_FinalProject_SP24/FiveNightsAtGrainger/FiveNightsAtGrainger/Content/_Main/Character/Animations/Reload.uasset",
 				"C:/School/CS415_FinalProject_SP24/FiveNightsAtGrainger/FiveNightsAtGrainger/Content/_Main/Character/Animations/run.uasset",
 				"C:/School/CS415_FinalProject_SP24/FiveNightsAtGrainger/FiveNightsAtGrainger/Content/_Main/Character/Animations/AimFire.uasset",
-				"C:/School/CS415_FinalProject_SP24/FiveNightsAtGrainger/FiveNightsAtGrainger/Content/_Main/Character/Animations/AimPose.uasset"
+				"C:/School/CS415_FinalProject_SP24/FiveNightsAtGrainger/FiveNightsAtGrainger/Content/_Main/Character/Animations/AimPose.uasset",
+				"C:/School/CS415_FinalProject_SP24/FiveNightsAtGrainger/FiveNightsAtGrainger/Content/_Main/Character/Animations/AimFire_Montage.uasset",
+				"C:/School/CS415_FinalProject_SP24/FiveNightsAtGrainger/FiveNightsAtGrainger/Content/_Main/Character/Animations/IdleFIre_Montage.uasset",
+				"C:/School/CS415_FinalProject_SP24/FiveNightsAtGrainger/FiveNightsAtGrainger/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
 			]
 		}
 	]
