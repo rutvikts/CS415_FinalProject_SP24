@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/adars/Documents/CS415_FinalProject_SP24/FiveNightsAtGrainger/FiveNightsAtGrainger/Content/_Main/Zombie/BP_Zombie.uasset",
+				"C:/Users/adars/Documents/CS415_FinalProject_SP24/FiveNightsAtGrainger/FiveNightsAtGrainger/Content/_Main/Widgets/MainWidget_W.uasset",
+				"C:/Users/adars/Documents/CS415_FinalProject_SP24/FiveNightsAtGrainger/FiveNightsAtGrainger/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/adars/Documents/CS415_FinalProject_SP24/FiveNightsAtGrainger/FiveNightsAtGrainger/Content/_Main/Zombie/Animations/zombie_attack_Montage1.uasset",
+				"C:/Users/adars/Documents/CS415_FinalProject_SP24/FiveNightsAtGrainger/FiveNightsAtGrainger/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/US/EOQVPM7PIU201Z7B7ZL5SI.uasset",
+				"C:/Users/adars/Documents/CS415_FinalProject_SP24/FiveNightsAtGrainger/FiveNightsAtGrainger/Content/_Main/Maps/BridgeMap.umap",
+				"C:/Users/adars/Documents/CS415_FinalProject_SP24/FiveNightsAtGrainger/FiveNightsAtGrainger/Content/_Main/Blueprints/ZombieGameMode.uasset",
 				"C:/Users/achau9/Desktop/CS415_FinalProject_SP24/FiveNightsAtGrainger/FiveNightsAtGrainger/Content/_Main/Blueprints/ZombieGirl_Material.uasset",
 				"C:/Users/achau9/Desktop/CS415_FinalProject_SP24/FiveNightsAtGrainger/FiveNightsAtGrainger/Content/_Main/Blueprints/ZombieGirl_Material_ncl1_1.uasset",
 				"C:/Users/achau9/Desktop/CS415_FinalProject_SP24/FiveNightsAtGrainger/FiveNightsAtGrainger/Content/_Main/Blueprints/ZombieGirl_Material_ncl1_2.uasset",
