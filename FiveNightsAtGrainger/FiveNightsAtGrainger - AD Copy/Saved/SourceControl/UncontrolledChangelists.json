@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/nazarkalyniouk/Documents/GitHub/CS415_FinalProject_SP24/FiveNightsAtGrainger/FiveNightsAtGrainger - AD Copy/Content/_Main/Blueprints/BP_FirstPersonCharacter.uasset",
+				"/Users/nazarkalyniouk/Documents/GitHub/CS415_FinalProject_SP24/FiveNightsAtGrainger/FiveNightsAtGrainger - AD Copy/Content/_Main/Widgets/MainWidget_W.uasset",
+				"/Users/nazarkalyniouk/Documents/GitHub/CS415_FinalProject_SP24/FiveNightsAtGrainger/FiveNightsAtGrainger - AD Copy/Content/_Main/Character/Animations/Reload_Montage.uasset",
 				"C:/Users/devdp2/Documents/GitHub/CS415_FinalProject_SP24/FiveNightsAtGrainger/FiveNightsAtGrainger - AD Copy/Content/_Main/Blueprints/ZombieGameMode.uasset",
 				"C:/Users/devdp2/Documents/GitHub/CS415_FinalProject_SP24/FiveNightsAtGrainger/FiveNightsAtGrainger - AD Copy/Content/_Main/Zombie/BP_Zombie.uasset",
 				"C:/Users/devdp2/Documents/GitHub/CS415_FinalProject_SP24/FiveNightsAtGrainger/FiveNightsAtGrainger - AD Copy/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/OD/YPSPM063O6XAJVKSDHY2JX.uasset",
